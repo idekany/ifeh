@@ -1,7 +1,7 @@
 # Metallicity estimation of RR Lyrae stars from their I-band light curves
 
 This repository contains the data files and codes for the basic workflow of the following study:
-[**TBD: arXiv link**]()
+[Dekany, Grebel, & Pojmanski (2021)](http://arxiv.org/abs/2107.05983)
 
 The codes have been developed under the following python environment:
  - `python` 3.8
